@@ -103,7 +103,7 @@ pip install numpy
 ```
 
 ### 3. Ejecutar la simulación principal
-Para iniciar la simulación por defecto (con $1000$ pedidos) y ver las estadísticas de logística:
+Para iniciar la simulación por defecto y ver las estadísticas de logística:
 ```bash
 python main.py
 ```
