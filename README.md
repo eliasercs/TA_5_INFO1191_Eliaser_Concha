@@ -1,5 +1,3 @@
-# Integrante 1 - Investigación
-
 ## Caso de estudio: Sistema de distribución de pedidos e-commerce
 
 ### Descripción del caso
