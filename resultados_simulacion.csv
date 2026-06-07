@@ -1,1001 +1,1001 @@
 id,estado_final,pasos_totales,historial
-PED-001,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-001,Devuelto,1,Pedido Recibido -> Devuelto
 PED-002,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-003,Devuelto,1,Pedido Recibido -> Devuelto
-PED-004,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-005,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-003,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-004,Devuelto,1,Pedido Recibido -> Devuelto
+PED-005,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-006,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-007,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-008,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-009,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-010,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-007,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-008,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-009,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-010,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-011,Devuelto,1,Pedido Recibido -> Devuelto
-PED-012,Devuelto,1,Pedido Recibido -> Devuelto
-PED-013,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-014,Devuelto,1,Pedido Recibido -> Devuelto
-PED-015,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-016,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-017,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
-PED-018,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-019,Entregado,8,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-012,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-013,Devuelto,1,Pedido Recibido -> Devuelto
+PED-014,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-015,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-016,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-017,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-018,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-019,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-020,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-021,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-022,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-023,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-024,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-025,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-022,Devuelto,1,Pedido Recibido -> Devuelto
+PED-023,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-024,Devuelto,1,Pedido Recibido -> Devuelto
+PED-025,Devuelto,1,Pedido Recibido -> Devuelto
 PED-026,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-027,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-028,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-027,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-028,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-029,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-030,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-031,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-031,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-032,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-033,Devuelto,1,Pedido Recibido -> Devuelto
-PED-034,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-035,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-033,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-034,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-035,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-036,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-037,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-038,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-039,Devuelto,1,Pedido Recibido -> Devuelto
+PED-037,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-038,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-039,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-040,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-041,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-042,Devuelto,1,Pedido Recibido -> Devuelto
-PED-043,Devuelto,1,Pedido Recibido -> Devuelto
-PED-044,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-041,Devuelto,1,Pedido Recibido -> Devuelto
+PED-042,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-043,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-044,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-045,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-046,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-047,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-048,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-047,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-048,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-049,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-050,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-051,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-052,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-053,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-053,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-054,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-055,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-056,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-055,Devuelto,1,Pedido Recibido -> Devuelto
+PED-056,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-057,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-058,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-059,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-060,Devuelto,1,Pedido Recibido -> Devuelto
-PED-061,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-059,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-060,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-061,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-062,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-063,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-064,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-065,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-064,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-065,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-066,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-067,Devuelto,1,Pedido Recibido -> Devuelto
+PED-067,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-068,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-069,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-070,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-069,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-070,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-071,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-072,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-073,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-074,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-074,Devuelto,1,Pedido Recibido -> Devuelto
 PED-075,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-076,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-077,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-076,Devuelto,1,Pedido Recibido -> Devuelto
+PED-077,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-078,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-079,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-080,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-081,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-082,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-083,Devuelto,1,Pedido Recibido -> Devuelto
+PED-081,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-082,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-083,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-084,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-085,Devuelto,1,Pedido Recibido -> Devuelto
+PED-085,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-086,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-087,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-088,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-089,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-089,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-090,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-091,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-092,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-093,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-091,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-092,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-093,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-094,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-095,Devuelto,1,Pedido Recibido -> Devuelto
+PED-095,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-096,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-097,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-098,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-099,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-100,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-101,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-102,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-097,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-098,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-099,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-100,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-101,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-102,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-103,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-104,Devuelto,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-105,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-106,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-107,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-108,Devuelto,1,Pedido Recibido -> Devuelto
+PED-104,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-105,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-106,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-107,Devuelto,1,Pedido Recibido -> Devuelto
+PED-108,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-109,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-110,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-111,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-112,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-113,Devuelto,1,Pedido Recibido -> Devuelto
-PED-114,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-112,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-113,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-114,Devuelto,1,Pedido Recibido -> Devuelto
 PED-115,Devuelto,1,Pedido Recibido -> Devuelto
 PED-116,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-117,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
-PED-118,Devuelto,1,Pedido Recibido -> Devuelto
-PED-119,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-120,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-121,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-122,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-117,Devuelto,1,Pedido Recibido -> Devuelto
+PED-118,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-119,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-120,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-121,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-122,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-123,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-124,Devuelto,1,Pedido Recibido -> Devuelto
-PED-125,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-126,Devuelto,1,Pedido Recibido -> Devuelto
+PED-124,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-125,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-126,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-127,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-128,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-128,Devuelto,1,Pedido Recibido -> Devuelto
 PED-129,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-130,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-131,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-132,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-133,Devuelto,1,Pedido Recibido -> Devuelto
-PED-134,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-135,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-136,Devuelto,1,Pedido Recibido -> Devuelto
-PED-137,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-138,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-139,Devuelto,1,Pedido Recibido -> Devuelto
-PED-140,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-130,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-131,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-132,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-133,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-134,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-135,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-136,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-137,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-138,Devuelto,1,Pedido Recibido -> Devuelto
+PED-139,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-140,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-141,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-142,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-143,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-144,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-145,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-144,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-145,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-146,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-147,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-148,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-149,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-150,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-151,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-147,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-148,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-149,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-150,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-151,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-152,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-153,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-154,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-155,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-156,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-157,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-158,Devuelto,1,Pedido Recibido -> Devuelto
-PED-159,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-154,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-155,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-156,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-157,Devuelto,1,Pedido Recibido -> Devuelto
+PED-158,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-159,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
 PED-160,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-161,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-162,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-163,Devuelto,1,Pedido Recibido -> Devuelto
-PED-164,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-164,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-165,Devuelto,1,Pedido Recibido -> Devuelto
 PED-166,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-167,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-168,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-169,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-170,Devuelto,1,Pedido Recibido -> Devuelto
+PED-168,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-169,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-170,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-171,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-172,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-173,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-174,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-175,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-172,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-173,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-174,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-175,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-176,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-177,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-177,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-178,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-179,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-180,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-181,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-182,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-183,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-184,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-179,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-180,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-181,Devuelto,10,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-182,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-183,Devuelto,1,Pedido Recibido -> Devuelto
+PED-184,Devuelto,1,Pedido Recibido -> Devuelto
 PED-185,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-186,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-187,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-188,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-189,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-190,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-191,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-187,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-188,Devuelto,1,Pedido Recibido -> Devuelto
+PED-189,Devuelto,1,Pedido Recibido -> Devuelto
+PED-190,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-191,Devuelto,1,Pedido Recibido -> Devuelto
 PED-192,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-193,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-194,Devuelto,1,Pedido Recibido -> Devuelto
-PED-195,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-196,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-197,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-198,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-199,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-200,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-201,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-202,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-203,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-204,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-194,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-195,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-196,Devuelto,1,Pedido Recibido -> Devuelto
+PED-197,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-198,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-199,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-200,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-201,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-202,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-203,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-204,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-205,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-206,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-206,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-207,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-208,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-209,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-208,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-209,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-210,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-211,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-211,Devuelto,1,Pedido Recibido -> Devuelto
 PED-212,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-213,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-214,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-215,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-216,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-217,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-213,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-214,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-215,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-216,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-217,Devuelto,1,Pedido Recibido -> Devuelto
 PED-218,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-219,Devuelto,1,Pedido Recibido -> Devuelto
-PED-220,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-221,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-219,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-220,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-221,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-222,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-223,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-223,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-224,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-225,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-225,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-226,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-227,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-227,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-228,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-229,Devuelto,1,Pedido Recibido -> Devuelto
-PED-230,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-231,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-232,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-233,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-234,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-235,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-236,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-237,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-238,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-229,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-230,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-231,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-232,Devuelto,1,Pedido Recibido -> Devuelto
+PED-233,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-234,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-235,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-236,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-237,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-238,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
 PED-239,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-240,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-240,Devuelto,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-241,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-242,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-243,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-242,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-243,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-244,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-245,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-245,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-246,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-247,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-248,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-249,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-248,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-249,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-250,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-251,Devuelto,1,Pedido Recibido -> Devuelto
-PED-252,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-253,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-254,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-251,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-252,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-253,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-254,Devuelto,1,Pedido Recibido -> Devuelto
 PED-255,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-256,Devuelto,1,Pedido Recibido -> Devuelto
-PED-257,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-258,Devuelto,1,Pedido Recibido -> Devuelto
-PED-259,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-260,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-256,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-257,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-258,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-259,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-260,Devuelto,1,Pedido Recibido -> Devuelto
 PED-261,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-262,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-262,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-263,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-264,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-265,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-266,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-267,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-268,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-265,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-266,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-267,Devuelto,1,Pedido Recibido -> Devuelto
+PED-268,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-269,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-270,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-270,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-271,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-272,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-273,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-274,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-275,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-276,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-277,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-278,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-274,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-275,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-276,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-277,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-278,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-279,Devuelto,1,Pedido Recibido -> Devuelto
-PED-280,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-281,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-282,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-283,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-284,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-280,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-281,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-282,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-283,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-284,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-285,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-286,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-287,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-287,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-288,Devuelto,1,Pedido Recibido -> Devuelto
-PED-289,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-289,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-290,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-291,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-292,Devuelto,1,Pedido Recibido -> Devuelto
-PED-293,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-294,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-295,Devuelto,1,Pedido Recibido -> Devuelto
+PED-291,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-292,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-293,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-294,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-295,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-296,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-297,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-298,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-299,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-300,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-301,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-301,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-302,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-303,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-304,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-305,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-303,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-304,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-305,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-306,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-307,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-308,Devuelto,1,Pedido Recibido -> Devuelto
-PED-309,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-310,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-311,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-307,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-308,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-309,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-310,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-311,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-312,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-313,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-313,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-314,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-315,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-316,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-317,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-318,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-319,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-320,Devuelto,1,Pedido Recibido -> Devuelto
-PED-321,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-315,Devuelto,1,Pedido Recibido -> Devuelto
+PED-316,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-317,Devuelto,1,Pedido Recibido -> Devuelto
+PED-318,Devuelto,1,Pedido Recibido -> Devuelto
+PED-319,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-320,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-321,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-322,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-323,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-324,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-325,Devuelto,1,Pedido Recibido -> Devuelto
+PED-325,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-326,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-327,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-327,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-328,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-329,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-330,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-330,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-331,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-332,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-333,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-332,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-333,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-334,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-335,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-336,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-337,Entregado,8,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-338,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-339,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
-PED-340,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-335,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-336,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-337,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-338,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-339,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-340,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-341,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-342,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-343,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-344,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-345,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-346,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-343,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-344,Devuelto,1,Pedido Recibido -> Devuelto
+PED-345,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-346,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-347,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-348,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-348,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-349,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-350,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-350,Devuelto,1,Pedido Recibido -> Devuelto
 PED-351,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-352,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-353,Devuelto,1,Pedido Recibido -> Devuelto
-PED-354,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-353,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-354,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-355,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-356,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-356,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-357,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-358,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-359,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-359,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-360,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-361,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-362,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-362,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-363,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-364,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-365,Devuelto,1,Pedido Recibido -> Devuelto
+PED-365,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-366,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-367,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-368,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-369,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-369,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-370,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-371,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-372,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-373,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-371,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-372,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-373,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-374,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-375,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-376,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-375,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-376,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-377,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-378,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-379,Devuelto,1,Pedido Recibido -> Devuelto
-PED-380,Devuelto,1,Pedido Recibido -> Devuelto
+PED-379,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-380,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-381,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-382,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-383,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-383,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-384,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-385,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-386,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-387,Devuelto,1,Pedido Recibido -> Devuelto
-PED-388,Devuelto,1,Pedido Recibido -> Devuelto
-PED-389,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-390,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-391,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-392,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-385,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-386,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-387,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-388,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-389,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-390,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-391,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-392,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-393,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-394,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-395,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-395,Devuelto,1,Pedido Recibido -> Devuelto
 PED-396,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-397,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-398,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-399,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-398,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-399,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-400,Devuelto,1,Pedido Recibido -> Devuelto
 PED-401,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-402,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-402,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-403,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-404,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-405,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-406,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-405,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-406,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-407,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-408,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-409,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-409,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-410,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-411,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-411,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-412,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-413,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-414,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-415,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-416,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-417,Devuelto,1,Pedido Recibido -> Devuelto
+PED-413,Devuelto,1,Pedido Recibido -> Devuelto
+PED-414,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-415,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-416,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-417,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-418,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-419,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-420,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-420,Devuelto,1,Pedido Recibido -> Devuelto
 PED-421,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-422,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-423,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-422,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-423,Devuelto,1,Pedido Recibido -> Devuelto
 PED-424,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-425,Devuelto,8,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-425,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-426,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-427,Devuelto,1,Pedido Recibido -> Devuelto
+PED-427,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-428,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-429,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-430,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-430,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-431,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-432,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-433,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-434,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-435,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-436,Devuelto,1,Pedido Recibido -> Devuelto
+PED-433,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-434,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-435,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-436,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-437,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-438,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-438,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-439,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-440,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-441,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-442,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-441,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-442,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-443,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-444,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-445,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-446,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-447,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-444,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-445,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-446,Devuelto,1,Pedido Recibido -> Devuelto
+PED-447,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-448,Devuelto,1,Pedido Recibido -> Devuelto
 PED-449,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-450,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-450,Devuelto,1,Pedido Recibido -> Devuelto
 PED-451,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-452,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-453,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-454,Devuelto,1,Pedido Recibido -> Devuelto
-PED-455,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-456,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-457,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-458,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-459,Devuelto,1,Pedido Recibido -> Devuelto
-PED-460,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-461,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-462,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-463,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-453,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-454,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-455,Devuelto,1,Pedido Recibido -> Devuelto
+PED-456,Devuelto,1,Pedido Recibido -> Devuelto
+PED-457,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-458,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-459,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-460,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-461,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-462,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-463,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-464,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-465,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-466,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-467,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-468,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-469,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-465,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-466,Devuelto,1,Pedido Recibido -> Devuelto
+PED-467,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-468,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-469,Devuelto,1,Pedido Recibido -> Devuelto
 PED-470,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-471,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-471,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-472,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-473,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-473,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-474,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-475,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-476,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-477,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-478,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-475,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-476,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-477,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-478,Devuelto,1,Pedido Recibido -> Devuelto
 PED-479,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-480,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-480,Devuelto,1,Pedido Recibido -> Devuelto
 PED-481,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-482,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-483,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-484,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-483,Devuelto,1,Pedido Recibido -> Devuelto
+PED-484,Devuelto,1,Pedido Recibido -> Devuelto
 PED-485,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-486,Devuelto,1,Pedido Recibido -> Devuelto
-PED-487,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-486,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-487,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-488,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-489,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-490,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-491,Devuelto,1,Pedido Recibido -> Devuelto
+PED-489,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-490,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-491,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-492,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-493,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-494,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-494,Devuelto,8,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-495,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-496,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-497,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-498,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-499,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-500,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-501,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-502,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-501,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-502,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-503,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-504,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-505,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-506,Devuelto,1,Pedido Recibido -> Devuelto
-PED-507,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-508,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-509,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-510,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-504,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-505,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-506,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-507,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-508,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-509,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-510,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-511,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-512,Devuelto,7,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-512,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-513,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-514,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-515,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-516,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-517,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-518,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-516,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-517,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-518,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-519,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-520,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-521,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-520,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-521,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-522,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-523,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-524,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-525,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-526,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-525,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-526,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-527,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-528,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-528,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-529,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-530,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-531,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-530,Devuelto,1,Pedido Recibido -> Devuelto
+PED-531,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-532,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-533,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-534,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-535,Devuelto,1,Pedido Recibido -> Devuelto
-PED-536,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-537,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-538,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-534,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-535,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-536,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-537,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-538,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-539,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-540,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-541,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-542,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-543,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-543,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-544,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-545,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-546,Devuelto,1,Pedido Recibido -> Devuelto
-PED-547,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-545,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-546,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-547,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-548,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-549,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-549,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-550,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-551,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-552,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-553,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-554,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-552,Devuelto,1,Pedido Recibido -> Devuelto
+PED-553,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-554,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-555,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-556,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-557,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-558,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-556,Devuelto,1,Pedido Recibido -> Devuelto
+PED-557,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-558,Devuelto,1,Pedido Recibido -> Devuelto
 PED-559,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-560,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-561,Devuelto,1,Pedido Recibido -> Devuelto
-PED-562,Devuelto,1,Pedido Recibido -> Devuelto
-PED-563,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-564,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-562,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-563,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-564,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-565,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-566,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-566,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-567,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-568,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-569,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-568,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-569,Devuelto,1,Pedido Recibido -> Devuelto
 PED-570,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-571,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-572,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-572,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-573,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-574,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-575,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-574,Devuelto,1,Pedido Recibido -> Devuelto
+PED-575,Devuelto,1,Pedido Recibido -> Devuelto
 PED-576,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-577,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-578,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-579,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-580,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-580,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-581,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-582,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-583,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-582,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-583,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-584,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-585,Devuelto,1,Pedido Recibido -> Devuelto
-PED-586,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-587,Devuelto,1,Pedido Recibido -> Devuelto
+PED-585,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-586,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-587,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-588,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-589,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-590,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-589,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-590,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-591,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-592,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-593,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-592,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-593,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-594,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-595,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-596,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-597,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-598,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-599,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-595,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-596,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-597,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-598,Devuelto,1,Pedido Recibido -> Devuelto
+PED-599,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-600,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-601,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-602,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-602,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-603,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-604,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-605,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-606,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-604,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-605,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-606,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-607,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-608,Devuelto,1,Pedido Recibido -> Devuelto
-PED-609,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
-PED-610,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-611,Devuelto,1,Pedido Recibido -> Devuelto
-PED-612,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-608,Entregado,10,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-609,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-610,Devuelto,11,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-611,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-612,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-613,Devuelto,1,Pedido Recibido -> Devuelto
-PED-614,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-614,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-615,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-616,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-617,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-618,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-619,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-616,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-617,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-618,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-619,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-620,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-621,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-622,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-623,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-624,Devuelto,1,Pedido Recibido -> Devuelto
-PED-625,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-621,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-622,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-623,Devuelto,1,Pedido Recibido -> Devuelto
+PED-624,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-625,Devuelto,1,Pedido Recibido -> Devuelto
 PED-626,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-627,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-628,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-628,Devuelto,1,Pedido Recibido -> Devuelto
 PED-629,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-630,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-631,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-632,Devuelto,1,Pedido Recibido -> Devuelto
-PED-633,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-634,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-631,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-632,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-633,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-634,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-635,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-636,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-637,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-638,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-639,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-640,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-636,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-637,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-638,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-639,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-640,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-641,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-642,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-643,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-644,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-645,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-645,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-646,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-647,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-648,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-649,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-648,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-649,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-650,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-651,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-652,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-653,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-654,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-655,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-656,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-657,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-652,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-653,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-654,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-655,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-656,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-657,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-658,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-659,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-660,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-661,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-662,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-663,Devuelto,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-663,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-664,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-665,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-666,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-665,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-666,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-667,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-668,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-669,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-670,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-671,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-668,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-669,Devuelto,1,Pedido Recibido -> Devuelto
+PED-670,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-671,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-672,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-673,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-673,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-674,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-675,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-675,Devuelto,1,Pedido Recibido -> Devuelto
 PED-676,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-677,Devuelto,1,Pedido Recibido -> Devuelto
+PED-677,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-678,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-679,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-680,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-679,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-680,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-681,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-682,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-683,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-684,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-682,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-683,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-684,Devuelto,1,Pedido Recibido -> Devuelto
 PED-685,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-686,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-686,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-687,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-688,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-689,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-690,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-691,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-692,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-693,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-694,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-688,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-689,Devuelto,9,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-690,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-691,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-692,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-693,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-694,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-695,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-696,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-696,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-697,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-698,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-699,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-698,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-699,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-700,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-701,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-702,Devuelto,1,Pedido Recibido -> Devuelto
-PED-703,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-704,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-701,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-702,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-703,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-704,Devuelto,1,Pedido Recibido -> Devuelto
 PED-705,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-706,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-707,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-708,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-706,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-707,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-708,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-709,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-710,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-710,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-711,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-712,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-713,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-712,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-713,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-714,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-715,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-716,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-717,Devuelto,1,Pedido Recibido -> Devuelto
+PED-716,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-717,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-718,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-719,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-720,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-721,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-722,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-723,Devuelto,1,Pedido Recibido -> Devuelto
-PED-724,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-720,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-721,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-722,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-723,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-724,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-725,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-726,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-727,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-726,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-727,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-728,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-729,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-730,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-731,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-730,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-731,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
 PED-732,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-733,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-734,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-733,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-734,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-735,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-736,Devuelto,1,Pedido Recibido -> Devuelto
-PED-737,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-738,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-739,Devuelto,1,Pedido Recibido -> Devuelto
-PED-740,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-736,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-737,Devuelto,1,Pedido Recibido -> Devuelto
+PED-738,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-739,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-740,Devuelto,1,Pedido Recibido -> Devuelto
 PED-741,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-742,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-742,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-743,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-744,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-745,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-744,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-745,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-746,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-747,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-748,Devuelto,1,Pedido Recibido -> Devuelto
-PED-749,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-750,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-747,Devuelto,1,Pedido Recibido -> Devuelto
+PED-748,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-749,Devuelto,8,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-750,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-751,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-752,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-753,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-754,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-755,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-752,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-753,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-754,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-755,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-756,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-757,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-758,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-759,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-760,Devuelto,1,Pedido Recibido -> Devuelto
-PED-761,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-762,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-758,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-759,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-760,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-761,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-762,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-763,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-764,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-765,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-766,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-767,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-764,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-765,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-766,Devuelto,1,Pedido Recibido -> Devuelto
+PED-767,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-768,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-769,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-770,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-771,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-769,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-770,Devuelto,1,Pedido Recibido -> Devuelto
+PED-771,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-772,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-773,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-774,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-775,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-776,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-773,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-774,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-775,Devuelto,1,Pedido Recibido -> Devuelto
+PED-776,Devuelto,1,Pedido Recibido -> Devuelto
 PED-777,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-778,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-779,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-780,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-781,Devuelto,1,Pedido Recibido -> Devuelto
-PED-782,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-783,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-778,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-779,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-780,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-781,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-782,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-783,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-784,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-785,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-786,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-787,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-788,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-786,Devuelto,1,Pedido Recibido -> Devuelto
+PED-787,Devuelto,1,Pedido Recibido -> Devuelto
+PED-788,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-789,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-790,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-791,Devuelto,1,Pedido Recibido -> Devuelto
+PED-791,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-792,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-793,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-794,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-795,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-796,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-793,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-794,Devuelto,9,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-795,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-796,Devuelto,1,Pedido Recibido -> Devuelto
 PED-797,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-798,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-798,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-799,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-800,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-801,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-802,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-803,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-804,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-805,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-806,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-807,Devuelto,1,Pedido Recibido -> Devuelto
-PED-808,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-801,Devuelto,1,Pedido Recibido -> Devuelto
+PED-802,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-803,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-804,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-805,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-806,Devuelto,1,Pedido Recibido -> Devuelto
+PED-807,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-808,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-809,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-810,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-811,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-812,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-810,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-811,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-812,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-813,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-814,Devuelto,1,Pedido Recibido -> Devuelto
-PED-815,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-816,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-817,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-814,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-815,Devuelto,1,Pedido Recibido -> Devuelto
+PED-816,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-817,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-818,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-819,Devuelto,1,Pedido Recibido -> Devuelto
-PED-820,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-819,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-820,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-821,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-822,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-823,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-822,Devuelto,1,Pedido Recibido -> Devuelto
+PED-823,Devuelto,1,Pedido Recibido -> Devuelto
 PED-824,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-825,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-826,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-825,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-826,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-827,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-828,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-828,Devuelto,1,Pedido Recibido -> Devuelto
 PED-829,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-830,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-831,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-832,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-830,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-831,Devuelto,1,Pedido Recibido -> Devuelto
+PED-832,Devuelto,1,Pedido Recibido -> Devuelto
 PED-833,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-834,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-835,Devuelto,1,Pedido Recibido -> Devuelto
+PED-834,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-835,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-836,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-837,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-837,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-838,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-839,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-839,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-840,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-841,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-842,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-843,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-844,Devuelto,1,Pedido Recibido -> Devuelto
-PED-845,Devuelto,1,Pedido Recibido -> Devuelto
+PED-843,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-844,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-845,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-846,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-847,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-848,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-849,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-850,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-851,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-852,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-853,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-854,Devuelto,1,Pedido Recibido -> Devuelto
-PED-855,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-856,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-847,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-848,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-849,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-850,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-851,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-852,Devuelto,1,Pedido Recibido -> Devuelto
+PED-853,Devuelto,1,Pedido Recibido -> Devuelto
+PED-854,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-855,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-856,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-857,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-858,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-859,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-860,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-858,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-859,Devuelto,1,Pedido Recibido -> Devuelto
+PED-860,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-861,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-862,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-863,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-862,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-863,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-864,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-865,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-866,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-867,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-865,Devuelto,1,Pedido Recibido -> Devuelto
+PED-866,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-867,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-868,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-869,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-870,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-871,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-872,Devuelto,1,Pedido Recibido -> Devuelto
+PED-871,Devuelto,1,Pedido Recibido -> Devuelto
+PED-872,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-873,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-874,Devuelto,8,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
-PED-875,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-876,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-877,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-874,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-875,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-876,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-877,Devuelto,1,Pedido Recibido -> Devuelto
 PED-878,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-879,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-880,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-881,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-882,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-883,Devuelto,1,Pedido Recibido -> Devuelto
+PED-883,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-884,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-885,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-886,Devuelto,1,Pedido Recibido -> Devuelto
-PED-887,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-888,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-889,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-890,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-891,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-885,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-886,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-887,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-888,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-889,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-890,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-891,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-892,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-893,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-894,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-894,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-895,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-896,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-897,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-897,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-898,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-899,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-900,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-901,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-902,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-903,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-899,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-900,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-901,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-902,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-903,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-904,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-905,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-906,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-907,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-908,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-909,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-910,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-911,Devuelto,1,Pedido Recibido -> Devuelto
-PED-912,Devuelto,1,Pedido Recibido -> Devuelto
+PED-905,Devuelto,1,Pedido Recibido -> Devuelto
+PED-906,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-907,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-908,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-909,Devuelto,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-910,Devuelto,1,Pedido Recibido -> Devuelto
+PED-911,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-912,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-913,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-914,Devuelto,1,Pedido Recibido -> Devuelto
+PED-914,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-915,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-916,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-917,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-918,Devuelto,1,Pedido Recibido -> Devuelto
-PED-919,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-920,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-921,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-922,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-923,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-924,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-925,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-916,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-917,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-918,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-919,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-920,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-921,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-922,Devuelto,1,Pedido Recibido -> Devuelto
+PED-923,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-924,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-925,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-926,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-927,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-927,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-928,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-929,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-930,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-931,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-932,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-930,Devuelto,6,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-931,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-932,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-933,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-934,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-935,Entregado,7,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-934,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-935,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-936,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-937,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-938,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-937,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-938,Devuelto,1,Pedido Recibido -> Devuelto
 PED-939,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-940,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-941,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-940,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-941,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-942,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-943,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-944,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-945,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-946,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-947,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-948,Devuelto,1,Pedido Recibido -> Devuelto
-PED-949,Devuelto,1,Pedido Recibido -> Devuelto
-PED-950,Devuelto,1,Pedido Recibido -> Devuelto
-PED-951,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-943,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-944,Devuelto,1,Pedido Recibido -> Devuelto
+PED-945,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-946,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-947,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-948,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-949,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-950,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-951,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-952,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-953,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-954,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-955,Entregado,8,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-956,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-957,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-958,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-954,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-955,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-956,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-957,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-958,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-959,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-960,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-961,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-962,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-963,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-961,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
+PED-962,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-963,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-964,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-965,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-965,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
 PED-966,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-967,Devuelto,1,Pedido Recibido -> Devuelto
-PED-968,Devuelto,1,Pedido Recibido -> Devuelto
-PED-969,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-970,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-968,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-969,Devuelto,1,Pedido Recibido -> Devuelto
+PED-970,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-971,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-972,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
-PED-973,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-972,Devuelto,9,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
+PED-973,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
 PED-974,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-975,Entregado,6,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-975,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-976,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-977,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-977,Entregado,5,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-978,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-979,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-980,Entregado,5,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entregado
-PED-981,Devuelto,6,Pedido Recibido -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
+PED-979,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-980,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-981,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-982,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-983,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-984,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-985,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-986,Devuelto,5,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> Devuelto
-PED-987,Entregado,6,Pedido Recibido -> En Preparación -> En Preparación -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-988,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-989,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
+PED-986,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-987,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-988,Devuelto,1,Pedido Recibido -> Devuelto
+PED-989,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-990,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-991,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-992,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-993,Devuelto,1,Pedido Recibido -> Devuelto
+PED-993,Devuelto,7,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entrega Fallida -> Devuelto
 PED-994,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-995,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
-PED-996,Devuelto,1,Pedido Recibido -> Devuelto
-PED-997,Devuelto,1,Pedido Recibido -> Devuelto
+PED-996,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
+PED-997,Entregado,7,Pedido Recibido -> En Preparación -> En Bodega -> En Bodega -> En Reparto -> Entrega Fallida -> En Reparto -> Entregado
 PED-998,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-999,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
 PED-1000,Entregado,4,Pedido Recibido -> En Preparación -> En Bodega -> En Reparto -> Entregado
